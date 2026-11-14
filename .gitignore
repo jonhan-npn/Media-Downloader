@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+build/
+dist/
+release/
+downloads/
+.mediadownloader/
+packaging/windows/ffmpeg/bin/*.exe
+*.pyc
